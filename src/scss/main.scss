@@ -1,0 +1,9 @@
+@use 'abstracts' as *;
+
+@use 'components/cards';
+
+body {
+    font-size: $font-size;
+    color: $red;
+    background-color: $blue;
+}

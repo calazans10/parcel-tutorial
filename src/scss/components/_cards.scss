@@ -1,0 +1,6 @@
+@use 'abstracts';
+
+.card {
+    font-size: abstracts.$font-size;
+    color: abstracts.$blue;
+}
